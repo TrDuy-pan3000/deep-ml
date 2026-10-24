@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**6** solved · 6 problems · 0 labs · 0 math
+**7** solved · 7 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Implement Global Average Pooling](https://www.deep-ml.com/problems/114) | easy | 2026-10-24 | [solution](problems/0114-implement-global-average-pooling) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-10-24 | [solution](problems/0023-softmax-activation-function-implementation) |
+| [Gradient Clipping by Norm](https://www.deep-ml.com/problems/909) | medium | 2026-10-24 | [solution](problems/0909-gradient-clipping-by-norm) |
 | [Implement Batch Normalization for BCHW Input](https://www.deep-ml.com/problems/115) | medium | 2026-10-23 | [solution](problems/0115-implement-batch-normalization-for-bchw-input) |
 | [Implement Label Smoothing for Multi-Class Cross-Entropy](https://www.deep-ml.com/problems/194) | medium | 2026-10-24 | [solution](problems/0194-implement-label-smoothing-for-multi-class-cross-entropy) |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2026-10-23 | [solution](problems/0054-implementing-a-simple-rnn) |
